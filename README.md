@@ -1,2 +1,0 @@
-# TheBestHackerMode
-brawl-blox-menu
